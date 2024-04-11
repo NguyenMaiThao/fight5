@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 file cau123 cua cau123
+=======
+file cau123 cua main
+>>>>>>> main
